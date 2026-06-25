@@ -68,7 +68,7 @@ streamlit run streamlit_app.py
 
 ## 📸 Screenshot
 
-Add a screenshot of your chatbot here.
+![PDF Chatbot](screenshot.png)
 
 ## 👨‍💻 Author
 
